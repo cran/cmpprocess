@@ -1,0 +1,15 @@
+cc524ed43d23e0a28efdf0eb75d3cd4b *DESCRIPTION
+23c16a28558d971642ec8553f0fa0616 *NAMESPACE
+5a74a607798ab9a7aff627aa6498bf20 *R/cmpproc.r
+289be45696ab65114a9dabb0fe0e57f7 *R/cmpprocwt.r
+b7fcc3e45d7e6143c4c372abfeb53d0a *R/data.R
+90b17ef5ce3582ccab886fef44141166 *data/fetalcount.rdata
+c3541e126e41f59bddfe9bdb3e4644bc *data/fetalwait.rdata
+41c64a40627be1186344dae690a78e17 *data/floodcount.RData
+e5cf8fb3ab4d83fbfe0678e181713fa1 *data/floodwait.rdata
+770d7edd3c5dee8d57d67b3e787aa621 *man/cmpproc.Rd
+673e60d3ca9f67fcf64d6b59aaa50216 *man/cmpprocwt.Rd
+a3bd43a2ada214f7c85a86162e3e4e21 *man/fetalcount.Rd
+a6ff03cfe0a57cb7d83523de79b22cb4 *man/fetalwait.Rd
+c139f213c8d9348c04da197df464c3e2 *man/floodcount.Rd
+1b46a55fd14d851ab1fb951321b20ef2 *man/floodwait.Rd
