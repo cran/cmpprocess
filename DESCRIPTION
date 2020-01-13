@@ -1,7 +1,7 @@
 Package: cmpprocess
 Type: Package
 Title: Flexible Modeling of Count Processes
-Version: 1.0
+Version: 1.1
 Authors@R: c(
     person("Li", "Zhu" , role = "aut"), 
     person("Kimberly", "Sellers", email = "Kimberly.Sellers@georgetown.edu", role = "aut"),
@@ -22,11 +22,11 @@ License: GPL-3
 LazyData: TRUE
 RoxygenNote: 6.0.0
 NeedsCompilation: no
-Packaged: 2017-03-11 17:35:48 UTC; Diag Davenport
+Packaged: 2020-01-12 16:41:23 UTC; diagdavenport
 Author: Li Zhu [aut],
   Kimberly Sellers [aut],
   Darcy Morris [aut],
   Galit Shmueli [aut],
   Diag Davenport [aut, cre]
 Repository: CRAN
-Date/Publication: 2017-03-11 18:56:29
+Date/Publication: 2020-01-14 00:40:02 UTC
